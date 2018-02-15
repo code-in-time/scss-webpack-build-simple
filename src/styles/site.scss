@@ -1,0 +1,11 @@
+@import './_variables';
+
+
+body {
+    background-color: green;
+
+    p {
+        color: $colorRed;
+        font-size: 40px;
+    }
+}
